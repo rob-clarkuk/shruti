@@ -493,6 +493,16 @@
     ]
   },
   {
+    "name": "Shruti Options",
+    "settings": [
+      {
+        "type": "url",
+        "id": "us_link",
+        "label": "US Link"
+      }
+    ]
+  },
+  {
     "name": "Social media",
     "settings": [
       {
