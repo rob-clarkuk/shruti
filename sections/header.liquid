@@ -11,6 +11,7 @@
           <div class="logo-contain">
             <a class="icon-us" href="{{ settings.us_link }}">
               {% render 'icon-us' %}
+              <div>{{ settings.us_description }}</div>
             </a>
             {% if template.name == 'index' %}
               <h1 class="site-logo {% if section.settings.logo %}has-image{% endif %}">

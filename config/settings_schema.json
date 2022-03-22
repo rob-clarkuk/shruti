@@ -499,6 +499,12 @@
         "type": "url",
         "id": "us_link",
         "label": "US Link"
+      },
+      {
+        "type": "text",
+        "id": "us_description",
+        "label": "US Link Description",
+        "default": "From the US?"
       }
     ]
   },
