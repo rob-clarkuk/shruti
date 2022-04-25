@@ -2614,6 +2614,7 @@
           },
           "2a47f4c8-6a67-4084-ade8-2a92608f7092": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/2.jpg",
               "link": "shopify:\/\/products\/recipe-cards-box-rhs-plant-power",
