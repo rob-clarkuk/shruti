@@ -2108,10 +2108,10 @@
         "settings": {
           "header_layout": "vertical",
           "logo": "shopify:\/\/shop_images\/SHRUTI_LOGO.png",
-          "logo_max_width": 240,
+          "logo_max_width": 420,
           "main_linklist": "main-menu",
           "mega_menu": false,
-          "scroll_lock": "header",
+          "scroll_lock": "none",
           "minimal_padding": "normal",
           "top_bar_full_width": true,
           "header_full_width": true,
