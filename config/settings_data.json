@@ -2279,12 +2279,33 @@
             "settings": {
               "collection": "garden"
             }
+          },
+          "fbada2f0-e591-4ec1-afc1-487e3d044e98": {
+            "type": "collection",
+            "settings": {
+              "collection": "moomin"
+            }
+          },
+          "848dbb01-c2fc-4034-bfed-9ee684ef559c": {
+            "type": "collection",
+            "settings": {
+              "collection": "rspb"
+            }
+          },
+          "61a7c257-9f5a-4f9a-b824-bd5ca8811b2e": {
+            "type": "collection",
+            "settings": {
+              "collection": "shruti-designs"
+            }
           }
         },
         "block_order": [
           "1484256559451",
           "1484256561216",
-          "1484256562272"
+          "1484256562272",
+          "fbada2f0-e591-4ec1-afc1-487e3d044e98",
+          "848dbb01-c2fc-4034-bfed-9ee684ef559c",
+          "61a7c257-9f5a-4f9a-b824-bd5ca8811b2e"
         ],
         "settings": {
           "title": "All collections",
