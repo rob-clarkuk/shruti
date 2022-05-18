@@ -2265,13 +2265,13 @@
           "1484256559451": {
             "type": "collection",
             "settings": {
-              "collection": ""
+              "collection": "agatha-christie"
             }
           },
           "1484256561216": {
             "type": "collection",
             "settings": {
-              "collection": ""
+              "collection": "bonbi-forest"
             }
           },
           "1484256562272": {
@@ -2289,7 +2289,7 @@
         "settings": {
           "title": "All collections",
           "layout": "preview",
-          "list_mode": "default"
+          "list_mode": "manual"
         }
       },
       "blog-template": {
