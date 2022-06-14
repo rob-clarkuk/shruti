@@ -2770,6 +2770,7 @@
           },
           "a8385b42-7ae7-4b2c-a574-c9a26041bf50": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Moomin_mugs_05.jpg",
               "link": "shopify:\/\/collections\/moomin",
