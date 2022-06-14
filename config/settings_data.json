@@ -2166,6 +2166,14 @@
       "1481011878590": {
         "type": "gallery",
         "blocks": {
+          "1595506907335": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Shruti_Brochure_Lifestyle_Image_square_-_Copy.jpg",
+              "link": "shopify:\/\/collections\/new-arrivals",
+              "title": "New Arrivals"
+            }
+          },
           "1595506895466": {
             "type": "image",
             "settings": {
@@ -2182,14 +2190,6 @@
               "title": "Free as a Bird"
             }
           },
-          "1595506907335": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Shruti_Brochure_Lifestyle_Image_square_-_Copy.jpg",
-              "link": "shopify:\/\/collections\/new-arrivals",
-              "title": "New Arrivals"
-            }
-          },
           "1481011878590-4": {
             "type": "image",
             "settings": {
@@ -2200,9 +2200,9 @@
           }
         },
         "block_order": [
+          "1595506907335",
           "1595506895466",
           "1481011878590-3",
-          "1595506907335",
           "1481011878590-4"
         ],
         "settings": {
@@ -2771,7 +2771,7 @@
           "a8385b42-7ae7-4b2c-a574-c9a26041bf50": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Shruti_Christmas_21_Banner.jpg",
+              "image": "shopify:\/\/shop_images\/Moomin_mugs_05.jpg",
               "link": "shopify:\/\/collections\/moomin",
               "title": "",
               "text": "",
