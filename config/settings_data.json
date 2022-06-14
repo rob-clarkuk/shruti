@@ -2113,8 +2113,8 @@
           "mega_menu": false,
           "scroll_lock": "none",
           "minimal_padding": "normal",
-          "top_bar_full_width": true,
-          "header_full_width": true,
+          "top_bar_full_width": false,
+          "header_full_width": false,
           "show_locale_selector": true,
           "show_currency_selector": true
         }
