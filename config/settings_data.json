@@ -2513,6 +2513,18 @@
       "1581665586907": {
         "type": "shop-the-look",
         "blocks": {
+          "6a045909-4960-4e8b-a98d-956a0212c414": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Bonbi_Forest_Lifestyle_7_SS22.jpg",
+              "link": "",
+              "enable_overlay": false,
+              "title": "",
+              "text": "",
+              "product_1": "",
+              "product_2": ""
+            }
+          },
           "1581665586907-2": {
             "type": "image",
             "settings": {
@@ -2633,19 +2645,6 @@
               "product_2": ""
             }
           },
-          "2a47f4c8-6a67-4084-ade8-2a92608f7092": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/2.jpg",
-              "link": "shopify:\/\/products\/recipe-cards-box-rhs-plant-power",
-              "enable_overlay": false,
-              "title": "",
-              "text": "",
-              "product_1": "",
-              "product_2": ""
-            }
-          },
           "1581665586907-1": {
             "type": "image",
             "settings": {
@@ -2658,11 +2657,12 @@
               "product_2": ""
             }
           },
-          "6a045909-4960-4e8b-a98d-956a0212c414": {
+          "2a47f4c8-6a67-4084-ade8-2a92608f7092": {
             "type": "image",
             "disabled": true,
             "settings": {
-              "link": "",
+              "image": "shopify:\/\/shop_images\/2.jpg",
+              "link": "shopify:\/\/products\/recipe-cards-box-rhs-plant-power",
               "enable_overlay": false,
               "title": "",
               "text": "",
@@ -2672,6 +2672,7 @@
           }
         },
         "block_order": [
+          "6a045909-4960-4e8b-a98d-956a0212c414",
           "1581665586907-2",
           "c06e9c40-6568-4eba-99a4-67d352b229d6",
           "968e9845-2636-4143-b287-57d083209d22",
@@ -2682,9 +2683,8 @@
           "1581665586907-5",
           "c6b1a722-c4cb-4155-ab1c-d40e776624a5",
           "91f98061-4c5a-4de4-b4a4-31d938bd2fdc",
-          "2a47f4c8-6a67-4084-ade8-2a92608f7092",
           "1581665586907-1",
-          "6a045909-4960-4e8b-a98d-956a0212c414"
+          "2a47f4c8-6a67-4084-ade8-2a92608f7092"
         ],
         "settings": {
           "title": "Follow us @Shrutidesigns",
