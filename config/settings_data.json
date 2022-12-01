@@ -2083,7 +2083,7 @@
             "type": "announcement-bar",
             "settings": {
               "show_announcement_bar": true,
-              "title": "Free Shipping on UK orders over £30 | Now Shipping to the United States",
+              "title": "Free Shipping on UK orders over £30",
               "link": "",
               "color_background": "#a7a8a9",
               "color_text": "#ffffff",
